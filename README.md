@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mateuszwsalek
+- 👋 Hi, I’m Mateusz
 - 👀 I’m interested in VBA-automatisation and creation of visualisation of Financial data in Excel.
 Python Data science libraries.
 Oracle SQL and MySQL.
